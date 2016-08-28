@@ -1,0 +1,213 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Bluejek
+</name>
+</assembly>
+<members>
+<member name="P:Bluejek.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Bluejek.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Bluejek.My.Resources.Resources.backgroundmotor">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Bluejek.My.Resources.Resources.template_widescreen_background_pattern_html2_1024x640">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Bluejek.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:Bluejek.Database2Entities.#ctor">
+	<summary>
+ Initializes a new Database2Entities object using the connection string found in the 'Database2Entities' section of the application configuration file.
+ </summary>
+</member><member name="M:Bluejek.Database2Entities.#ctor(System.String)">
+	<summary>
+ Initialize a new Database2Entities object.
+ </summary>
+</member><member name="M:Bluejek.Database2Entities.#ctor(System.Data.EntityClient.EntityConnection)">
+	<summary>
+ Initialize a new Database2Entities object.
+ </summary>
+</member><member name="P:Bluejek.Database2Entities.Headers">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Database2Entities.Locations">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Database2Entities.Ojeks">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Database2Entities.Users">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Bluejek.Database2Entities.AddToHeaders(Bluejek.Header)">
+	<summary>
+ Deprecated Method for adding a new object to the Headers EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Bluejek.Database2Entities.AddToLocations(Bluejek.Location)">
+	<summary>
+ Deprecated Method for adding a new object to the Locations EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Bluejek.Database2Entities.AddToOjeks(Bluejek.Ojek)">
+	<summary>
+ Deprecated Method for adding a new object to the Ojeks EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="M:Bluejek.Database2Entities.AddToUsers(Bluejek.User)">
+	<summary>
+ Deprecated Method for adding a new object to the Users EntitySet. Consider using the .Add method of the associated ObjectSet(Of T) property instead.
+ </summary>
+</member><member name="T:Bluejek.Database2Entities">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Bluejek.Header.CreateHeader(System.String,System.String)">
+	<summary>
+ Create a new Header object.
+ </summary>
+	<param name="id">Initial value of the Id property.</param>
+	<param name="status">Initial value of the Status property.</param>
+</member><member name="P:Bluejek.Header.Id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Header.UserId">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Header.OjekId">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Header.TransactionDate">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Header.From_ID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Header.To_ID">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Header.Detail">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Header.Status">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Bluejek.Header">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Bluejek.Location.CreateLocation(System.Int32)">
+	<summary>
+ Create a new Location object.
+ </summary>
+	<param name="id">Initial value of the Id property.</param>
+</member><member name="P:Bluejek.Location.Id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Location.Location_Name">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Bluejek.Location">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Bluejek.Ojek.CreateOjek(System.String)">
+	<summary>
+ Create a new Ojek object.
+ </summary>
+	<param name="id">Initial value of the Id property.</param>
+</member><member name="P:Bluejek.Ojek.Id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Ojek.Firstname">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Ojek.Lastname">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Ojek.Email">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Ojek.Username">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.Ojek.Password">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Bluejek.Ojek">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="M:Bluejek.User.CreateUser(System.String)">
+	<summary>
+ Create a new User object.
+ </summary>
+	<param name="id">Initial value of the Id property.</param>
+</member><member name="P:Bluejek.User.Id">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.User.Firstname">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.User.Lastname">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.User.Email">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.User.Username">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.User.Password">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="P:Bluejek.User.Role">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Bluejek.User">
+	<summary>
+ No Metadata Documentation available.
+ </summary>
+</member><member name="T:Bluejek.Database2DataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

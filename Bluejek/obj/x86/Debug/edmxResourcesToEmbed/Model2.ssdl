@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Database2Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="Database2ModelStoreContainer">
+    <EntitySet Name="Header" EntityType="Database2Model.Store.Header" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Location" EntityType="Database2Model.Store.Location" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Ojek" EntityType="Database2Model.Store.Ojek" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="User" EntityType="Database2Model.Store.User" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Header">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="char" Nullable="false" MaxLength="5" />
+    <Property Name="UserId" Type="char" MaxLength="5" />
+    <Property Name="OjekId" Type="char" MaxLength="5" />
+    <Property Name="TransactionDate" Type="date" />
+    <Property Name="From_ID" Type="int" />
+    <Property Name="To_ID" Type="int" />
+    <Property Name="Detail" Type="varchar" MaxLength="50" />
+    <Property Name="Status" Type="varchar" Nullable="false" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Location">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" Nullable="false" />
+    <Property Name="Location_Name" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Ojek">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="char" Nullable="false" MaxLength="5" />
+    <Property Name="Firstname" Type="varchar" MaxLength="50" />
+    <Property Name="Lastname" Type="varchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Username" Type="varchar" MaxLength="50" />
+    <Property Name="Password" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="char" Nullable="false" MaxLength="5" />
+    <Property Name="Firstname" Type="varchar" MaxLength="50" />
+    <Property Name="Lastname" Type="varchar" MaxLength="50" />
+    <Property Name="Email" Type="varchar" MaxLength="50" />
+    <Property Name="Username" Type="varchar" MaxLength="20" />
+    <Property Name="Password" Type="varchar" MaxLength="20" />
+    <Property Name="Role" Type="varchar" MaxLength="10" />
+  </EntityType>
+</Schema>

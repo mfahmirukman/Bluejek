@@ -1,0 +1,86 @@
+C:\Users\user\AppData\Local\Temporary Projects\Bluejek\bin\Debug\Bluejek.exe
+C:\Users\user\AppData\Local\Temporary Projects\Bluejek\bin\Debug\Bluejek.pdb
+C:\Users\user\AppData\Local\Temporary Projects\Bluejek\bin\Debug\Bluejek.xml
+C:\Users\user\AppData\Local\Temporary Projects\Bluejek\obj\x86\Debug\Bluejek.Form1.resources
+C:\Users\user\AppData\Local\Temporary Projects\Bluejek\obj\x86\Debug\Bluejek.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\Bluejek\obj\x86\Debug\Bluejek.vbproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\Bluejek\obj\x86\Debug\Bluejek.exe
+C:\Users\user\AppData\Local\Temporary Projects\Bluejek\obj\x86\Debug\Bluejek.xml
+C:\Users\user\AppData\Local\Temporary Projects\Bluejek\obj\x86\Debug\Bluejek.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Bluejek.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Bluejek.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Bluejek.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Login.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.NewOrder.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Register.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.MainMenu.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Database2.mdf
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Database2_log.ldf
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Bluejek.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Customer.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Admin.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Order_History_Cust.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Order_History_Ojek.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Take_Order.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Ojek_2.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\bin\Debug\Bluejek.exe.config
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\bin\Debug\Database2.mdf
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\bin\Debug\Database2_log.ldf
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\bin\Debug\Bluejek.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\bin\Debug\Bluejek.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\bin\Debug\Bluejek.xml
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.Admin.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.Ojek_2.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.Order_History_Cust.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.Order_History_Ojek.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.Take_Order.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.Customer.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.MainMenu.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.Login.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.NewOrder.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.Register.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek - Copy\Bluejek\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\TUGAS MASTER\visual programming\Bluejek - Copy\Bluejek\bin\Debug\Bluejek.exe.config
+K:\TUGAS MASTER\visual programming\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.exe
+K:\TUGAS MASTER\visual programming\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.xml
+K:\TUGAS MASTER\visual programming\Bluejek - Copy\Bluejek\obj\x86\Debug\Bluejek.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.vbproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Model2.Designer.vb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.MasterOjek.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.MasterCustomer.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Bluejek.exe.config
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.exe
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.xml
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.pdb
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Database2.mdf
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Database2_log.ldf
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Model2.Designer.vb
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Bluejek.exe
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Bluejek.pdb
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\bin\Debug\Bluejek.xml
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Admin.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.MasterCustomer.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.MasterOjek.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Ojek_2.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Order_History_Cust.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Order_History_Ojek.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Take_Order.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Customer.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.MainMenu.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Login.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Resources.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.NewOrder.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.Register.resources
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.vbproj.GenerateResource.Cache
+C:\Users\prk\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.MasterLocation.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Bluejek\Bluejek\obj\x86\Debug\Bluejek.MasterLocation.resources
